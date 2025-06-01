@@ -15,7 +15,8 @@ a. Apply Gestalt principles to enhance mobile and web layout design. b. Incorpor
 
 5.Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts.
 ## Output:
-[lab 2 (1).pdf](https://github.com/user-attachments/files/20538371/lab.2.1.pdf)
+[Lab 2.pdf](https://github.com/user-attachments/files/20540455/Lab.2.pdf)
+
 
 ## Result:
 To Design a Basic Mobile and Web Layout for an Existing Case Study is successfully completed
